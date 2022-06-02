@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/italocedrosales/storm-glass-api/issues"
   },
-  "homepage": "https://github.com/italocedrosales/storm-glass-api#readme"
+  "homepage": "https://github.com/italocedrosales/storm-glass-api#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.1.3"
+  }
 }
