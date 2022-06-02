@@ -1,0 +1,24 @@
+{
+  "name": "@newspacebpo/storm-glass-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/italocedrosales/storm-glass-api.git"
+  },
+  "keywords": [
+    "node",
+    "typescript",
+    "api"
+  ],
+  "author": "Italo Cedro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/italocedrosales/storm-glass-api/issues"
+  },
+  "homepage": "https://github.com/italocedrosales/storm-glass-api#readme"
+}
