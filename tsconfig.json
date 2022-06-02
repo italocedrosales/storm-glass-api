@@ -20,18 +20,18 @@
     "baseUrl": ".",
     "paths": {
       "@src/*": ["./src/*"],
-      "@test/*": ["src/test/*"]
+      "@test/*": ["test/*"]
     },
     "rootDirs": [
       "./src",
-      "src/test"
+      "test"
     ],
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true
   },
   "include": [
     "./src/**/*.ts",
-    "src/test/**/*.ts"
+    "test/**/*.ts"
   ],
   "exclude": [
     "./node_modules/*",
