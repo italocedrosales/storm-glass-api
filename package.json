@@ -21,7 +21,11 @@
     "url": "https://github.com/italocedrosales/storm-glass-api/issues"
   },
   "homepage": "https://github.com/italocedrosales/storm-glass-api#readme",
+  "dependencies": {
+    "module-alias": "^2.2.2"
+  },
   "devDependencies": {
+    "@types/module-alias": "^2.0.1",
     "@types/node": "^17.0.38",
     "@typescript-eslint/eslint-plugin": "^5.27.0",
     "@typescript-eslint/parser": "^5.27.0",
